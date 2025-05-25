@@ -9,8 +9,8 @@ abstract final class Constants {
   static const generalNewsLink = 'news';
   static const allNewsLink = "topnews";
 
-  static const username = 'myheadlines123';
-  static const password = 'cAOPhfEhYMFPRFHJebDOvECp';
+  static const username = '***************';
+  static const password = '*******************';
 
 
 }
